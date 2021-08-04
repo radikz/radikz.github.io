@@ -6,21 +6,21 @@ const RESOURCES = {
   "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
-"assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
+"assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
 "assets/assets/novelblog.png": "d5ac2ee82a535081764f66d576661139",
 "assets/assets/shopapp.png": "4dbd92ac470c5cc7d47e664446519128",
 "assets/assets/linkedin.png": "38b43a4765f23ffbfc50c129642f8e67",
 "assets/assets/github.png": "ec3a60c8c6539a07eb70b52f6737ea6e",
 "assets/assets/me.png": "c3d5d0cfdfb2a7d0f5e0da37e9929501",
 "assets/AssetManifest.json": "160fea68df063cb53ba5c32b4f5e6eb4",
-"assets/NOTICES": "4de3294d932ac59c7e9cd2e48958a370",
+"assets/NOTICES": "550189d5d71b98012070a2a5370ed022",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "manifest.json": "18bcf917a577d72d6831a1e0585dc135",
 "version.json": "1bcd77b377a76afa446cafde42f21bda",
-"index.html": "c31cb57911dbe83738d290c02fdc85df",
-"/": "c31cb57911dbe83738d290c02fdc85df",
+"index.html": "841e4bfaf7561c346d3904b7551d971d",
+"/": "841e4bfaf7561c346d3904b7551d971d",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
-"main.dart.js": "cb8dcd066cdb3c01834ee95446ec04d0"
+"main.dart.js": "3a65a43e23585bc04300d96dc611bfdc"
 };
 
 // The application shell files that are downloaded before a service worker can
@@ -38,7 +38,7 @@ self.addEventListener("install", (event) => {
   return event.waitUntil(
     caches.open(TEMP).then((cache) => {
       return cache.addAll(
-        CORE.map((value) => new Request(value + '?revision=' + RESOURCES[value], {'cache': 'reload'})));
+        CORE.map((value) => new Request(value, {'cache': 'reload'})));
     })
   );
 });
