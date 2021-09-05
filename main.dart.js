@@ -52055,7 +52055,7 @@ V.pI.prototype={
 aE:function(){return new V.Ep(C.k)}}
 V.Ep.prototype={
 M:function(a,b){var s=null,r=P.a5w(232,234,246,0.8),q=P.a5w(232,234,246,1),p=this.d,o=t.fQ,n=T.p_(H.c([T.e1(s,8,s),T.wK(new K.wO(new D.j5("https://i.ibb.co/k4gzcrc/me.png",1),16,s),s,s),T.e1(s,108,s)],o),C.bi,C.bK),m=A.l6(s,s,C.dz,s,C.jJ,s,s,2,s,s,s,15,s,C.ab,s,s,!0,s,0.8,s,s,s,s,s),l=A.l6(s,s,s,s,s,s,s,s,s,s,s,15,s,C.ab,s,s,!0,s,0.8,s,s,s,s,s),k=t.i
-return new M.rs(T.a38(H.c([new E.qx(q,n,H.c([V.a4k(C.n8,"Home",8),V.a4k(C.n6,"Project",8),V.a4k(C.n9,"Me",8)],t.r9),p,new V.XZ(this),1,C.iS,l,m,new T.de(C.rP,s,s),56,s),new T.x1(this.d,H.c(["https://i.ibb.co/990S8RX/novelblog.png","https://i.ibb.co/M5mWCLx/shopapp.png","https://i.ibb.co/86YdVBX/nyuws-news.png"],k),H.c(["https://novel-blog.000webhostapp.com/","https://shopapp-radikz.netlify.app/","https://drive.google.com/drive/folders/1tLxeuuhc4sGHILnlulPe1zX7aEtzGa-5?usp=sharing"],k),s)],o),C.bi),r,s)}}
+return new M.rs(T.a38(H.c([new E.qx(q,n,H.c([V.a4k(C.n8,"Home",8),V.a4k(C.n6,"Project",8),V.a4k(C.n9,"Me",8)],t.r9),p,new V.XZ(this),1,C.iS,l,m,new T.de(C.rP,s,s),56,s),new T.x1(this.d,H.c(["https://i.ibb.co/990S8RX/novelblog.png","https://i.ibb.co/M5mWCLx/shopapp.png","https://i.ibb.co/86YdVBX/nyuws-news.png","https://i.ibb.co/JFzPSqD/Weather.png"],k),H.c(["https://novel-blog.000webhostapp.com/","https://shopapp-radikz.netlify.app/","https://drive.google.com/drive/folders/1tLxeuuhc4sGHILnlulPe1zX7aEtzGa-5?usp=sharing","https://drive.google.com/drive/folders/1SONwuU_26tKcNc-MDx2aQmt66xx5owrB?usp=sharing"],k),s)],o),C.bi),r,s)}}
 V.XZ.prototype={
 $1:function(a){var s=this.a
 s.ax(new V.XY(s,a))},
@@ -52065,7 +52065,7 @@ $0:function(){this.a.d=this.b},
 $S:2}
 Z.zW.prototype={
 M:function(a,b){var s,r,q,p=null,o=B.a2s(p,24,C.bf,0.25),n=H.c([],t.fQ)
-for(s=this.c,r=this.d,q=0;q<3;++q)n.push(new M.yi(s[q],r[q],p))
+for(s=this.c,r=this.d,q=0;q<4;++q)n.push(new M.yi(s[q],r[q],p))
 n.push(M.jY(p,new B.qh(new Z.Qs(this),C.dz,L.a3g("See More",o,p,p),p),C.w,p,p,p,p,new V.b8(0,0,24,24),p,p,p,p))
 n.push(T.e1(p,20,p))
 s=P.aJ([null,0],t.st,t.S)
