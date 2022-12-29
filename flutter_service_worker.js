@@ -16,10 +16,15 @@ const RESOURCES = {
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "manifest.json": "c546a7f67e6b31741d8ee7df1c0d0273",
 "version.json": "795bc83965e1fe371d1a7927e71c555a",
-"index.html": "1e1fe609c0eb601a0b31531b9410d1c7",
-"/": "1e1fe609c0eb601a0b31531b9410d1c7",
+"index.html": "0984ed79ff77309950697b709f0b3b43",
+"/": "0984ed79ff77309950697b709f0b3b43",
+"flutter.js": "f85e6fb278b0fd20c349186fb46ae36d",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
-"main.dart.js": "c779a8f0ac1197a19dbd0982d17666c8"
+"main.dart.js": "cb4fa65916b7681f30dc0cad4ec9b87c",
+"canvaskit/canvaskit.js": "2bc454a691c631b07a9307ac4ca47797",
+"canvaskit/profiling/canvaskit.js": "38164e5a72bdad0faa4ce740c9b8e564",
+"canvaskit/profiling/canvaskit.wasm": "95a45378b69e77af5ed2bc72b2209b94",
+"canvaskit/canvaskit.wasm": "bf50631470eb967688cca13ee181af62"
 };
 
 // The application shell files that are downloaded before a service worker can
