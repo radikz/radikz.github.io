@@ -1,7 +1,8 @@
 > This app is already remove from the store
 
 ## About this app
-Sistem pelaporan masyarakat merupakan aplikasi yang digunakan oleh masyarakat dengan tujuan menampung aduan dan dikelola oleh bareskrim.
+
+Sistem Pelaporan Masyarakat is an application that is used by the community with the aim of accommodating complaints and is managed by Bareskrim.
 
 ## Fearure list
 - Double authentication (password and OTP)
