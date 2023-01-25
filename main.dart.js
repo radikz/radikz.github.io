@@ -82107,7 +82107,7 @@ j(a){return"RailSelectorChoice."+this.b}}
 A.Gb.prototype={
 N(a){var s=null,r=t.w
 r=a.Y(r).f.a.a>=640?a.Y(r).f.a.a-256:1/0
-return new A.fB(new A.aC(0,r,0,1/0),A.kC(new A.hG(B.I,s,s,A.lz("Hi, My name is Rangga Dikarinata. \nI am a flutter developer based in Indonesia.\nCurrently, I am interested in creating package and \ncreating games for flutter",s,A.nt(s,s,s,s,s,s,s,s,s,s,s,20,s,s,B.bq,s,s,!0,s,s,s,s,s,s,s,s),s,s),s),s,s),s)}}
+return new A.fB(new A.aC(0,r,0,1/0),A.kC(new A.hG(B.I,s,s,A.lz('Hi, My name is Rangga Dikarinata. \nI am a flutter developer based in Indonesia.\nKeep learning like chinese saying "Learning is limitless"',s,A.nt(s,s,s,s,s,s,s,s,s,s,s,20,s,s,B.bq,s,s,!0,s,s,s,s,s,s,s,s),s,s),s),s,s),s)}}
 A.GT.prototype={
 N(a){return A.avx(new A.NK(700,8,8,350),new A.YE(this),J.aW(this.c.a),new A.aO(0,0,16,0))},
 vI(a){return this.a5k(a)},
